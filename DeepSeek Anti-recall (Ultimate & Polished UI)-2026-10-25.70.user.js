@@ -3,8 +3,8 @@
 // @name:zh-CN   DeepSeek 防撤回（底层拦截 & 精装修 UI 终极版）
 // @version      2026-10-25.70
 // @description  通过底层 XHR 拦截实现真防撤回，网页上绝不消失，且实时同步至本地精装修存档库。
-// @author       lllzh & llllhhAtom-kkk
-// @namespace    https://github.com/Atom-kkk/DeepSeek-Anti--recall
+// @author       Atom-kkk
+// @namespace    https://github.com/Atom-kkk/DeepSeek-Anti-recall
 // @match        https://chat.deepseek.com/*
 // @icon         https://www.deepseek.com/favicon.ico
 // @grant        GM_registerMenuCommand
